@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/brapastor/"><img align="left" alt="Erick Vargas | Linkedin" width="24px" title="Linkedin" alt="Linkedin" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
 
 <a href="https://twitter.com/grekodev"><img align="left" alt="Erick Vargas | Twitter" width="24px" title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"></a>
-
+<br>
 I'm a software developer from Peru, currently developing applications web with react js. but i am dispose to learn new technologies
 
 **Main Programming Languages and Development Technologies:**
@@ -18,8 +18,7 @@ I'm a software developer from Peru, currently developing applications web with r
 <code>
 <a href="https://github.com/grekodev?tab=repositories&language=php"><img height="36" title="PHP" alt="PHP" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"></a></code><code>
 <a href="https://github.com/grekodev?tab=repositories&language=python"><img height="36" title="PYTHON" alt="PYTHON" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"></a></code><code>
-<a href="https://github.com/grekodev?tab=repositories&language=go"><img height="36" title="GOLANG" alt="GOLANG" src="https://i2.wp.com/codematter.net/wp-content/uploads/2018/09/golang_icon.png?fit=256%2C256&ssl=1"></a></code><code>
-
+<a href="https://github.com/grekodev?tab=repositories&language=go"><img height="36" title="GOLANG" alt="GOLANG" src="https://i2.wp.com/codematter.net/wp-content/uploads/2018/09/golang_icon.png?fit=256%2C256&ssl=1"></a></code>
 
 **Frameworks, libraries and tools**
 
