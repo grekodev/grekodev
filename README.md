@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/brapastor/"><img align="left" alt="Erick Vargas | Linkedin" width="24px" title="Linkedin" alt="Linkedin" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
 
 <a href="https://twitter.com/grekodev"><img align="left" alt="Erick Vargas | Twitter" width="24px" title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"></a>
-<br>
+<br><br>
 I'm a software developer from Peru, currently developing applications web with react js. but i am dispose to learn new technologies
 
 **Main Programming Languages and Development Technologies:**
