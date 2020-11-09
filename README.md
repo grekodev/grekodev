@@ -8,8 +8,6 @@
 
 <a href="https://twitter.com/grekodev"><img align="left" alt="Erick Vargas | Twitter" width="24px" title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"></a>
 
-<br><br>
-
 I'm a software developer from Peru, currently developing applications web with react js. but i am dispose to learn new technologies
 
 **Main Programming Languages and Development Technologies:**
@@ -40,4 +38,3 @@ I'm a software developer from Peru, currently developing applications web with r
 <code>
 <a href="http://postgrest.org/en/v7.0.0/"><img height="28" title="Postgresql" alt="Postgresql" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"></a>
 </code>
-
